@@ -5,6 +5,11 @@
 * The resnet18_labels.txt was downloaded from the internet
 * Ensure to install opencv and torch development libraries on Linux
 
+### Configure Dev Libraries
+
+run `setup_libtorch.sh` before opening the project. It will download the 
+correct version of pytorch with all dependencies.
+
 ### Compilation
 
 ```bash
